@@ -1,4 +1,6 @@
 export default {
+  base: '/teknotica/',
+  title: 'Docz',
   themeConfig: {
     colors: {
       primary: 'tomato'
