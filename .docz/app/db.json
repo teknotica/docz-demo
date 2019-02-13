@@ -1,0 +1,51 @@
+{
+  "config": {
+    "title": "Docz Demo",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "ordering": "descending",
+    "version": "0.1.0",
+    "repository": null,
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {
+      "colors": {
+        "primary": "tomato"
+      },
+      "styles": {
+        "h1": {
+          "fontSize": 100
+        }
+      }
+    }
+  },
+  "entries": {
+    "src/components/card/index.mdx": {
+      "menu": "Components",
+      "name": "Card",
+      "id": "0a14a0f6f9d2c992321eb776d9462094",
+      "filepath": "src/components/card/index.mdx",
+      "link": null,
+      "slug": "src-components-card-index",
+      "route": "/src-components-card-index",
+      "order": 0,
+      "headings": [
+        {
+          "depth": 1,
+          "slug": "card",
+          "value": "Card"
+        },
+        {
+          "depth": 2,
+          "slug": "properties",
+          "value": "Properties"
+        },
+        {
+          "depth": 2,
+          "slug": "single-card",
+          "value": "Single card"
+        }
+      ]
+    }
+  }
+}
