@@ -1,5 +1,5 @@
 export default {
-  base: '/teknotica/.docz/dist/',
+  base: '/docz-demo/',
   title: 'Docz',
   themeConfig: {
     colors: {
