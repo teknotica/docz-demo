@@ -1,6 +1,6 @@
 {
   "config": {
-    "title": "Docz Demo",
+    "title": "Docz",
     "description": "My awesome app using docz",
     "menu": [],
     "ordering": "descending",
@@ -17,7 +17,8 @@
           "fontSize": 100
         }
       }
-    }
+    },
+    "base": "/docz-demo/"
   },
   "entries": {
     "src/components/card/index.mdx": {

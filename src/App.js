@@ -4,7 +4,7 @@ import Card from 'components/card'
 const App = () => (
   <div>
     <h1>Docz demo</h1>
-    <Card title="Title" text="Testing Docz card here." />
+    <Card title="Hello World" text="Testing Docz card here." />
   </div>
 )
 
